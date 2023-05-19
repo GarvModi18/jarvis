@@ -1,4 +1,3 @@
-//GARV MODI
 #include <stdio.h>
 #include <stdlib.h>
 struct node
@@ -393,7 +392,7 @@ void main()
 
 			printf("Oh! Hello, My Name Is JARVIS.\n");	
 			printf("I Am A Program To Use Link List.\n");
-			printf("I Have Been Created By My Master GARV :)\n");	
+			printf("I Have Been Created By GARV :)\n");	
 			printf("Thanks For Using Me :)\n");			
 		}	
 		
@@ -411,7 +410,7 @@ void main()
 		printf("\nJARVIS\n");	
 		printf("------\n");
 
-		printf("See You! Master %s.\n", name);
+		printf("See You! %s.\n", name);
 		printf("JARVIS Signing Off...\n");
 	}
 	
